@@ -7,9 +7,7 @@ import Home from './Pages/Home';
 import Plans from './Pages/Plans';
 import About from './Pages/About';
 import Quote from './Pages/Quote';
-
-// 1. IMPORTE O COMPONENTE NOVO
-import ScrollToTop from './components/ScrollToTop';
+import ScrollToTop from "./components/ScrollTop";
 
 function App() {
   return (
